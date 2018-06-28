@@ -8,6 +8,4 @@ module.exports = {
       network_id: "*" //match any network id
     }
   }
-
-
 };
